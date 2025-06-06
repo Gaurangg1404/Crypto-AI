@@ -13,6 +13,9 @@ Images of our Website
 
 # Resources used in this project
 -> Fonts from https://fonts.google.com/
+
 -> Icons from https://iconify.design/
+
 -> API for crypto from https://www.coingecko.com/en/api
+
 -> API for stocks from https://finnhub.io/api

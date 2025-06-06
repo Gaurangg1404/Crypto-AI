@@ -10,3 +10,9 @@ Images of our Website
 
 ![Screenshot 2025-05-21 225010](https://github.com/user-attachments/assets/cf676d44-51ef-4e0f-ba39-f2cdfe01db71)
 
+
+# Resources used in this project
+-> Fonts from https://fonts.google.com/
+-> Icons from https://iconify.design/
+-> API for crypto from https://www.coingecko.com/en/api
+-> API for stocks from https://finnhub.io/api
